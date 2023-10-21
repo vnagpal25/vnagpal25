@@ -3,12 +3,7 @@
 Here are some ideas to get you started:
 
 -  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him/His
+- 🌱 I’m currently learning the basics of Machine Learning through an introductory online course offered by Caltech. [Follow my progress here](github.com/vnagpal25/Learning-From-Data)
 - ⚡ Fun fact: ...
 
 ---
@@ -26,7 +21,6 @@ Here are some ideas to get you started:
 
 ---
 
-**📲 Contact Me!**
-- Email: mgujral2@gmail.com
-- Phone: (803)-537-6519
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/vansh-nagpal123456/)
+**📫How To Contact Me!**
+- Email: vansh.nagpal1729@gmail.com
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/vnagpal123456/)
