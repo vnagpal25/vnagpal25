@@ -8,10 +8,10 @@
 - GPA: 4.00
 ---
 **📝 Resume**
---- [Find my Resume here](Nagpal_Resume_Fall23_updated.pdf)
+- [Find my Resume here](Nagpal_Resume_Fall23_updated.pdf)
 
 **🖥️ Projects**
----Find a list of my current projects on my [personal website](https://vnagpal25.github.io)
+- Find a list of my current projects on my [personal website](https://vnagpal25.github.io)
 
 **📫How To Contact Me!**
 - Email: vansh.nagpal1729@gmail.com
