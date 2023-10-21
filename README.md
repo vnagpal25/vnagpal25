@@ -3,8 +3,7 @@
 Here are some ideas to get you started:
 
 -  I’m currently working on ...
-- 🌱 I’m currently learning the basics of Machine Learning through an introductory online course offered by Caltech. [Follow my progress here](github.com/vnagpal25/Learning-From-Data)
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning the basics of Machine Learning through an introductory online course offered by Caltech. [Follow my progress here](github.com/vnagpal25/Learning_From_Data)
 
 ---
 
@@ -15,10 +14,9 @@ Here are some ideas to get you started:
 ---
 
 **📝 Resume**
----
+--- Find my Resume here: (github.com/vnagpal25/vnagpal25/Nagpal_Resume_Fall23_updated.pdf)
 
 **🖥️ Projects**
-
 ---
 
 **📫How To Contact Me!**
