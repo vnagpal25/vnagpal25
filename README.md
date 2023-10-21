@@ -1,6 +1,6 @@
 ### Hey! I'm Vansh Nagpal
 ---
-- 🌱 I’m currently learning the basics of Machine Learning through an introductory online course offered by Caltech. [Follow my progress here!](github.com/vnagpal25/Learning_From_Data
+- 🌱 I’m currently learning the basics of Machine Learning through an introductory online course offered by Caltech. [Follow my progress here!](github.com/vnagpal25/Learning_From_Data)
 ---
 **🏫 Education**</br></br>
 ***Univeristy of South Carolina Honors College, Class of 2025***
@@ -8,7 +8,7 @@
 - GPA: 4.00
 ---
 **📝 Resume**
---- [Find my Resume here](github.com/vnagpal25/vnagpal25/Nagpal_Resume_Fall23_updated.pdf)
+--- [Find my Resume here](https://github.com/vnagpal25/vnagpal25/Nagpal_Resume_Fall23_updated.pdf)
 
 **🖥️ Projects**
 ---
