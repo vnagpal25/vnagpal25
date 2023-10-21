@@ -8,7 +8,7 @@
 - GPA: 4.00
 ---
 **📝 Resume**
---- [Find my Resume here](https://github.com/vnagpal25/vnagpal25/Nagpal_Resume_Fall23_updated.pdf)
+--- [Find my Resume here](Nagpal_Resume_Fall23_updated.pdf)
 
 **🖥️ Projects**
 ---
