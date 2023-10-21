@@ -9,10 +9,10 @@
 ---
 **📝 Resume**
 - [Find my Resume here](Nagpal_Resume_Fall23_updated.pdf)
-
+---
 **🖥️ Projects/Research**
 - Find a list of my current projects/research updates and other detailed information on my [personal website](https://vnagpal25.github.io)
-
+---
 **📫How To Contact Me!**
 - Email: vansh.nagpal1729@gmail.com
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/vnagpal123456/)
