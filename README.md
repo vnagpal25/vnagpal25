@@ -1,5 +1,6 @@
 ### Hey! I'm Vansh Nagpal
 ---
+- 🌱I recently won 1st place at the ACM Code-A-Thon hosted by university. [See my work here!](https://github.com/vnagpal25/acm_code_a_thon_fall23)
 - 🌱 I recently learned the basics of Machine Learning through an introductory online course offered by Caltech. [Check out my work here!](https://github.com/vnagpal25/Learning_From_Data)
 ---
 **🏫 Education**</br></br>
