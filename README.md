@@ -17,6 +17,3 @@
 **📫How To Contact Me!**
 - Email: vansh.nagpal1729@gmail.com
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/vnagpal123456/)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnagpal25&theme=tokyonight)
